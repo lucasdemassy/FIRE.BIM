@@ -1,0 +1,413 @@
+{"Group 1" : {"OBJECTID": 1, "ObjectType": "BATIMENTS"}
+"Group 3" : {"OBJECTID": 2, "ObjectType": "DIVERS"}
+"Group 5" : {"OBJECTID": 3, "ObjectType": "VOIES"}
+"Group 7" : {"OBJECTID": 4, "ObjectType": "VEGETATION"}
+"Group 9" : {"OBJECTID": 5, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc B", "Description": "-3/8 (Asc prioritaire)", "Tag": "NIV3"}
+"Group 11" : {"OBJECTID": 6, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/8", "Tag": "NIV3"}
+"Group 13" : {"OBJECTID": 7, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/6", "Tag": "NIV3"}
+"Group 15" : {"OBJECTID": 8, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc B", "Description": "-3/6", "Tag": "NIV3"}
+"Group 17" : {"OBJECTID": 9, "ObjectType": "ESCALIERS", "Name": "Escaliers B1 Sup", "Tag": "NIV3"}
+"Group 19" : {"OBJECTID": 10, "ObjectType": "ESCALIERS", "Name": "Escaliers C Sup", "Tag": "NIV3"}
+"Group 21" : {"OBJECTID": 11, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV3"}
+"Group 23" : {"OBJECTID": 12, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc C", "Description": "-3/8", "Tag": "NIV3"}
+"Group 25" : {"OBJECTID": 13, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV3"}
+"Group 27" : {"OBJECTID": 14, "ObjectType": "ESCALIERS", "Name": "Escaliers C1 Sup", "Tag": "NIV3"}
+"Group 29" : {"OBJECTID": 15, "ObjectType": "CIRCULATIONS", "Name": "Circulations", "Tag": "NIV3"}
+"Group 31" : {"OBJECTID": 16, "ObjectType": "DIVERS", "Name": "Locaux divers", "Tag": "NIV3"}
+"Group 33" : {"OBJECTID": 17, "ObjectType": "INDUSTRIE", "Name": "Lancaster", "Tag": "NIV3"}
+"Group 35" : {"OBJECTID": 18, "ObjectType": "ESCALIERS", "Name": "Escaliers A1 Sup", "Tag": "NIV4"}
+"Group 37" : {"OBJECTID": 19, "ObjectType": "ESCALIERS", "Name": "Escaliers C Sup", "Tag": "NIV4"}
+"Group 39" : {"OBJECTID": 20, "ObjectType": "ESCALIERS", "Name": "Escaliers B Sup", "Tag": "NIV4"}
+"Group 41" : {"OBJECTID": 21, "ObjectType": "ESCALIERS", "Name": "Escaliers A Sup", "Tag": "NIV4"}
+"Group 43" : {"OBJECTID": 22, "ObjectType": "ESCALIERS", "Name": "Escaliers B1 Sup", "Tag": "NIV4"}
+"Group 45" : {"OBJECTID": 23, "ObjectType": "ESCALIERS", "Name": "Escaliers C1 Sup", "Tag": "NIV4"}
+"Group 47" : {"OBJECTID": 24, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV4"}
+"Group 49" : {"OBJECTID": 25, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV4"}
+"Group 51" : {"OBJECTID": 26, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc C", "Description": "-3/8", "Tag": "NIV4"}
+"Group 53" : {"OBJECTID": 27, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc B", "Description": "-3/8 (Asc prioritaire)", "Tag": "NIV4"}
+"Group 55" : {"OBJECTID": 28, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/8", "Tag": "NIV4"}
+"Group 57" : {"OBJECTID": 29, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/6", "Tag": "NIV4"}
+"Group 59" : {"OBJECTID": 30, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc B", "Description": "-3/6", "Tag": "NIV4"}
+"Group 61" : {"OBJECTID": 31, "ObjectType": "CIRCULATIONS", "Name": "Circulations", "Tag": "NIV4"}
+"Group 63" : {"OBJECTID": 32, "ObjectType": "DIVERS", "Name": "Locaux divers", "Tag": "NIV4"}
+"Group 65" : {"OBJECTID": 33, "ObjectType": "INDUSTRIE", "Name": "Data Center Monaco Telecom", "Tag": "NIV4"}
+"Group 67" : {"OBJECTID": 34, "ObjectType": "INDUSTRIE", "Name": "Euromax", "Tag": "NIV4"}
+"Group 69" : {"OBJECTID": 35, "ObjectType": "INDUSTRIE", "Name": "Euromax", "Tag": "NIV4"}
+"Group 71" : {"OBJECTID": 36, "ObjectType": "INDUSTRIE", "Name": "Mecaplast", "Tag": "NIV4"}
+"Group 73" : {"OBJECTID": 37, "ObjectType": "ESCALIERS", "Name": "Escaliers C1 Sup", "Tag": "NIV5"}
+"Group 75" : {"OBJECTID": 38, "ObjectType": "ESCALIERS", "Name": "Escaliers C Sup", "Tag": "NIV5"}
+"Group 77" : {"OBJECTID": 39, "ObjectType": "ESCALIERS", "Name": "Escaliers B Sup", "Tag": "NIV5"}
+"Group 79" : {"OBJECTID": 40, "ObjectType": "ESCALIERS", "Name": "Escaliers A1 Sup", "Tag": "NIV5"}
+"Group 81" : {"OBJECTID": 41, "ObjectType": "ESCALIERS", "Name": "Escaliers A Sup", "Tag": "NIV5"}
+"Group 83" : {"OBJECTID": 42, "ObjectType": "ESCALIERS", "Name": "Escaliers B1 Sup", "Tag": "NIV5"}
+"Group 85" : {"OBJECTID": 43, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc C", "Description": "-3/8", "Tag": "NIV5"}
+"Group 87" : {"OBJECTID": 44, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc B", "Description": "-3/6", "Tag": "NIV-2"}
+"Group 89" : {"OBJECTID": 45, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/8", "Tag": "NIV-2"}
+"Group 91" : {"OBJECTID": 46, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV-3"}
+"Group 93" : {"OBJECTID": 47, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc B", "Description": "-3/8 (Asc prioritaire)", "Tag": "NIV-2"}
+"Group 95" : {"OBJECTID": 48, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc C", "Description": "-3/8", "Tag": "NIV-2"}
+"Group 97" : {"OBJECTID": 49, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV4"}
+"Group 99" : {"OBJECTID": 50, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B", "Tag": "NIV4"}
+"Group 101" : {"OBJECTID": 51, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A1", "Tag": "NIV4"}
+"Group 103" : {"OBJECTID": 52, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A", "Tag": "NIV4"}
+"Group 105" : {"OBJECTID": 53, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc B", "Tag": "NIV4"}
+"Group 107" : {"OBJECTID": 54, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc C", "Tag": "NIV3"}
+"Group 109" : {"OBJECTID": 55, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C1", "Tag": "NIV3"}
+"Group 111" : {"OBJECTID": 56, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C", "Tag": "NIV3"}
+"Group 113" : {"OBJECTID": 57, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV3"}
+"Group 115" : {"OBJECTID": 58, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B", "Tag": "NIV3"}
+"Group 117" : {"OBJECTID": 59, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A1", "Tag": "NIV3"}
+"Group 119" : {"OBJECTID": 60, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc B", "Tag": "NIV3"}
+"Group 121" : {"OBJECTID": 61, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A", "Tag": "NIV3"}
+"Group 123" : {"OBJECTID": 62, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc C", "Tag": "NIV2"}
+"Group 125" : {"OBJECTID": 63, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc A", "Tag": "NIV2"}
+"Group 127" : {"OBJECTID": 64, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C1", "Tag": "NIV2"}
+"Group 129" : {"OBJECTID": 65, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C", "Tag": "NIV2"}
+"Group 131" : {"OBJECTID": 66, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C", "Tag": "NIV1"}
+"Group 133" : {"OBJECTID": 67, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B", "Tag": "NIV1"}
+"Group 135" : {"OBJECTID": 68, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV2"}
+"Group 137" : {"OBJECTID": 69, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B", "Tag": "NIV2"}
+"Group 139" : {"OBJECTID": 70, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A1", "Tag": "NIV2"}
+"Group 141" : {"OBJECTID": 71, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A", "Tag": "NIV2"}
+"Group 143" : {"OBJECTID": 72, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc A", "Tag": "NIV2"}
+"Group 145" : {"OBJECTID": 73, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A2", "Tag": "NIV2"}
+"Group 147" : {"OBJECTID": 74, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc A", "Tag": "NIV1"}
+"Group 149" : {"OBJECTID": 75, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C1", "Tag": "NIV1"}
+"Group 151" : {"OBJECTID": 76, "ObjectType": "SOCLE", "Description": "SOCLE", "Tag": "NIV8"}
+"Group 153" : {"OBJECTID": 77, "ObjectType": "SOCLE ", "Description": "SOCLE ", "Tag": "RDC"}
+"Group 155" : {"OBJECTID": 78, "ObjectType": "SOCLE ", "Description": "SOCLE ", "Tag": "NIV-2"}
+"Group 157" : {"OBJECTID": 79, "ObjectType": "SOCLE ", "Description": "SOCLE ", "Tag": "NIV-3"}
+"Group 159" : {"OBJECTID": 80, "ObjectType": "CIRCULATIONS", "Name": "Circulations", "Tag": "NIV-3"}
+"Group 161" : {"OBJECTID": 81, "ObjectType": "DIVERS", "Name": "Locaux divers", "Tag": "NIV-3"}
+"Group 163" : {"OBJECTID": 82, "ObjectType": "RISQUES", "Name": "Data Center Monaco Telecom", "Description": "Cuves fioul 2x8000l", "Tag": "NIV-3"}
+"Group 165" : {"OBJECTID": 83, "ObjectType": "RISQUES", "Name": "Stockage de fioul", "Description": "Cuves fioul 2x5000l", "Tag": "NIV-3"}
+"Group 167" : {"OBJECTID": 84, "ObjectType": "ESCALIERS", "Name": "Escaliers A2 Inf", "Description": "-3/RDC", "Tag": "NIV-3"}
+"Group 169" : {"OBJECTID": 85, "ObjectType": "ESCALIERS", "Name": "Escaliers A1 Inf", "Description": "-3/RDC", "Tag": "NIV-3"}
+"Group 171" : {"OBJECTID": 86, "ObjectType": "ESCALIERS", "Name": "Escaliers A Inf", "Description": "-3/RDC", "Tag": "NIV-3"}
+"Group 173" : {"OBJECTID": 87, "ObjectType": "ESCALIERS", "Name": "Escaliers C Inf", "Description": "-3/RDC", "Tag": "NIV-3"}
+"Group 175" : {"OBJECTID": 88, "ObjectType": "ESCALIERS", "Name": "Escaliers B Inf", "Description": "-3/RDC", "Tag": "NIV-3"}
+"Group 177" : {"OBJECTID": 89, "ObjectType": "ESCALIERS", "Name": "Escaliers B1 Inf", "Description": "-3/RDC", "Tag": "NIV-3"}
+"Group 179" : {"OBJECTID": 90, "ObjectType": "ESCALIERS", "Name": "Escaliers A2 Inf", "Description": "-3/RDC", "Tag": "NIV-2"}
+"Group 181" : {"OBJECTID": 91, "ObjectType": "ESCALIERS", "Name": "Escaliers A1 Inf", "Description": "-3/RDC", "Tag": "NIV-2"}
+"Group 183" : {"OBJECTID": 92, "ObjectType": "ESCALIERS", "Name": "Escaliers A Inf", "Description": "-3/RDC", "Tag": "NIV-2"}
+"Group 185" : {"OBJECTID": 93, "ObjectType": "ESCALIERS", "Name": "Escaliers B Inf", "Description": "-3/RDC", "Tag": "NIV-2"}
+"Group 187" : {"OBJECTID": 94, "ObjectType": "ESCALIERS", "Name": "Escaliers C Inf", "Description": "-3/RDC", "Tag": "NIV-2"}
+"Group 189" : {"OBJECTID": 95, "ObjectType": "CIRCULATIONS", "Name": "Circulations", "Tag": "NIV-2"}
+"Group 191" : {"OBJECTID": 96, "ObjectType": "DIVERS", "Name": "Locaux divers", "Tag": "NIV-2"}
+"Group 193" : {"OBJECTID": 97, "ObjectType": "RISQUES", "Name": "TGBT Bloc C parties communes", "Tag": "NIV-2"}
+"Group 195" : {"OBJECTID": 98, "ObjectType": "ESCALIERS", "Name": "Escaliers B1 Inf", "Description": "-3/RDC", "Tag": "NIV-2"}
+"Group 197" : {"OBJECTID": 99, "ObjectType": "INDUSTRIE", "Name": "MES", "Tag": "NIV5"}
+"Group 199" : {"OBJECTID": 100, "ObjectType": "INDUSTRIE", "Name": "Anny Rey", "Tag": "NIV5"}
+"Group 201" : {"OBJECTID": 101, "ObjectType": "INDUSTRIE", "Name": "Lancaster", "Tag": "NIV5"}
+"Group 203" : {"OBJECTID": 102, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc B", "Description": "-3/6", "Tag": "NIV5"}
+"Group 205" : {"OBJECTID": 103, "ObjectType": "CIRCULATIONS", "Name": "Circulations", "Tag": "NIV5"}
+"Group 207" : {"OBJECTID": 104, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/6", "Tag": "NIV5"}
+"Group 209" : {"OBJECTID": 105, "ObjectType": "DIVERS", "Name": "Locaux divers", "Tag": "NIV5"}
+"Group 211" : {"OBJECTID": 106, "ObjectType": "INDUSTRIE", "Name": "Exymol", "Tag": "NIV5"}
+"Group 213" : {"OBJECTID": 107, "ObjectType": "INDUSTRIE", "Name": "Lancaster", "Tag": "NIV5"}
+"Group 215" : {"OBJECTID": 108, "ObjectType": "INDUSTRIE", "Name": "Anny Rey", "Tag": "NIV5"}
+"Group 217" : {"OBJECTID": 109, "ObjectType": "INDUSTRIE", "Name": "Anny Rey", "Tag": "NIV5"}
+"Group 219" : {"OBJECTID": 110, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV5"}
+"Group 221" : {"OBJECTID": 111, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV5"}
+"Group 223" : {"OBJECTID": 112, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV8"}
+"Group 225" : {"OBJECTID": 113, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV1"}
+"Group 227" : {"OBJECTID": 114, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A1", "Tag": "NIV1"}
+"Group 229" : {"OBJECTID": 115, "ObjectType": "CIRCULATIONS", "Name": "Circulations", "Tag": "NIV7"}
+"Group 231" : {"OBJECTID": 116, "ObjectType": "ESCALIERS", "Name": "Escaliers A Sup", "Tag": "NIV7"}
+"Group 233" : {"OBJECTID": 117, "ObjectType": "ESCALIERS", "Name": "Escaliers B1 Sup", "Tag": "NIV7"}
+"Group 235" : {"OBJECTID": 118, "ObjectType": "ESCALIERS", "Name": "Escaliers A1 Sup", "Tag": "NIV7"}
+"Group 237" : {"OBJECTID": 119, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc B", "Description": "-3/8 (Asc prioritaire)", "Tag": "NIV7"}
+"Group 239" : {"OBJECTID": 120, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/8", "Tag": "NIV7"}
+"Group 241" : {"OBJECTID": 121, "ObjectType": "ESCALIERS", "Name": "Escaliers B Sup", "Tag": "NIV7"}
+"Group 243" : {"OBJECTID": 122, "ObjectType": "ESCALIERS", "Name": "Escaliers C Sup", "Tag": "NIV7"}
+"Group 245" : {"OBJECTID": 123, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV7"}
+"Group 247" : {"OBJECTID": 124, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV7"}
+"Group 249" : {"OBJECTID": 125, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc C", "Description": "-3/8", "Tag": "NIV7"}
+"Group 251" : {"OBJECTID": 126, "ObjectType": "ESCALIERS", "Name": "Escaliers C1 Sup", "Tag": "NIV7"}
+"Group 253" : {"OBJECTID": 127, "ObjectType": "INDUSTRIE", "Name": "Minimat/Polymat", "Tag": "NIV6"}
+"Group 255" : {"OBJECTID": 128, "ObjectType": "INDUSTRIE", "Name": "Minimat/Polymat", "Tag": "NIV6"}
+"Group 257" : {"OBJECTID": 129, "ObjectType": "INDUSTRIE", "Name": "Local", "Tag": "NIV6"}
+"Group 259" : {"OBJECTID": 130, "ObjectType": "INDUSTRIE", "Name": "Imprimerie Binucci", "Tag": "NIV6"}
+"Group 261" : {"OBJECTID": 131, "ObjectType": "INDUSTRIE", "Name": "Sam Timaille", "Tag": "NIV6"}
+"Group 263" : {"OBJECTID": 132, "ObjectType": "DIVERS", "Name": "Locaux divers", "Tag": "NIV6"}
+"Group 265" : {"OBJECTID": 133, "ObjectType": "CIRCULATIONS", "Name": "Circulations", "Tag": "NIV6"}
+"Group 267" : {"OBJECTID": 134, "ObjectType": "ESCALIERS", "Name": "Escaliers B1 Sup", "Tag": "NIV6"}
+"Group 269" : {"OBJECTID": 135, "ObjectType": "ESCALIERS", "Name": "Escaliers A Sup", "Tag": "NIV6"}
+"Group 271" : {"OBJECTID": 136, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc B", "Description": "-3/6", "Tag": "NIV6"}
+"Group 273" : {"OBJECTID": 137, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/6", "Tag": "NIV6"}
+"Group 275" : {"OBJECTID": 138, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/8", "Tag": "NIV6"}
+"Group 277" : {"OBJECTID": 139, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc B", "Description": "-3/8 (Asc prioritaire)", "Tag": "NIV6"}
+"Group 279" : {"OBJECTID": 140, "ObjectType": "ESCALIERS", "Name": "Escaliers B Sup", "Tag": "NIV6"}
+"Group 281" : {"OBJECTID": 141, "ObjectType": "ESCALIERS", "Name": "Escaliers A1 Sup", "Tag": "NIV6"}
+"Group 283" : {"OBJECTID": 142, "ObjectType": "ESCALIERS", "Name": "Escaliers C Sup", "Tag": "NIV6"}
+"Group 285" : {"OBJECTID": 143, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV6"}
+"Group 287" : {"OBJECTID": 144, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc C", "Description": "-3/8", "Tag": "NIV6"}
+"Group 289" : {"OBJECTID": 145, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV6"}
+"Group 291" : {"OBJECTID": 146, "ObjectType": "ESCALIERS", "Name": "Escaliers C1 Sup", "Tag": "NIV6"}
+"Group 293" : {"OBJECTID": 147, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C", "Tag": "NIV8"}
+"Group 295" : {"OBJECTID": 148, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc C", "Tag": "NIV8"}
+"Group 297" : {"OBJECTID": 149, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B", "Tag": "NIV8"}
+"Group 299" : {"OBJECTID": 150, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C1", "Tag": "NIV8"}
+"Group 301" : {"OBJECTID": 151, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A1", "Tag": "NIV8"}
+"Group 303" : {"OBJECTID": 152, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc C", "Tag": "NIV7"}
+"Group 305" : {"OBJECTID": 153, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C", "Tag": "NIV7"}
+"Group 307" : {"OBJECTID": 154, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV7"}
+"Group 309" : {"OBJECTID": 155, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A", "Tag": "NIV7"}
+"Group 311" : {"OBJECTID": 156, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B", "Tag": "NIV7"}
+"Group 313" : {"OBJECTID": 157, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C1", "Tag": "NIV7"}
+"Group 315" : {"OBJECTID": 158, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A1", "Tag": "NIV7"}
+"Group 317" : {"OBJECTID": 159, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV6"}
+"Group 319" : {"OBJECTID": 160, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc B", "Tag": "NIV6"}
+"Group 321" : {"OBJECTID": 161, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A", "Tag": "NIV6"}
+"Group 323" : {"OBJECTID": 162, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C", "Tag": "NIV6"}
+"Group 325" : {"OBJECTID": 163, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A1", "Tag": "NIV6"}
+"Group 327" : {"OBJECTID": 164, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C1", "Tag": "NIV6"}
+"Group 329" : {"OBJECTID": 165, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc C", "Tag": "NIV4"}
+"Group 331" : {"OBJECTID": 166, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B", "Tag": "NIV6"}
+"Group 333" : {"OBJECTID": 167, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A", "Tag": "NIV5"}
+"Group 335" : {"OBJECTID": 168, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc B", "Tag": "NIV5"}
+"Group 337" : {"OBJECTID": 169, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV5"}
+"Group 339" : {"OBJECTID": 170, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B", "Tag": "NIV5"}
+"Group 341" : {"OBJECTID": 171, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc C", "Tag": "NIV6"}
+"Group 343" : {"OBJECTID": 172, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C1", "Tag": "NIV5"}
+"Group 345" : {"OBJECTID": 173, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc C", "Tag": "NIV5"}
+"Group 347" : {"OBJECTID": 174, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A1", "Tag": "NIV5"}
+"Group 349" : {"OBJECTID": 175, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C", "Tag": "NIV5"}
+"Group 351" : {"OBJECTID": 176, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C1", "Tag": "NIV4"}
+"Group 353" : {"OBJECTID": 177, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C", "Tag": "NIV4"}
+"Group 355" : {"OBJECTID": 178, "ObjectType": "SOCLE ", "Description": "SOCLE ", "Tag": "NIV9"}
+"Group 357" : {"OBJECTID": 179, "ObjectType": "SOCLE ", "Description": "SOCLE ", "Tag": "NIV-1"}
+"Group 359" : {"OBJECTID": 180, "ObjectType": "SOCLE ", "Description": "SOCLE ", "Tag": "NIV1"}
+"Group 361" : {"OBJECTID": 181, "ObjectType": "SOCLE ", "Description": "SOCLE ", "Tag": "NIV4"}
+"Group 363" : {"OBJECTID": 182, "ObjectType": "SOCLE ", "Description": "SOCLE ", "Tag": "NIV5"}
+"Group 365" : {"OBJECTID": 183, "ObjectType": "SOCLE ", "Description": "SOCLE ", "Tag": "NIV6"}
+"Group 367" : {"OBJECTID": 184, "ObjectType": "SOCLE ", "Description": "SOCLE ", "Tag": "NIV7"}
+"Group 369" : {"OBJECTID": 185, "ObjectType": "RISQUES", "Name": "Transfo SMEG Bloc B", "Tag": "NIV-1"}
+"Group 371" : {"OBJECTID": 186, "ObjectType": "RISQUES", "Name": "GMTG", "Description": "2x952 KVA", "Tag": "NIV-1"}
+"Group 373" : {"OBJECTID": 187, "ObjectType": "INDUSTRIE", "Name": "Controle Technique", "Tag": "NIV-1"}
+"Group 375" : {"OBJECTID": 188, "ObjectType": "INDUSTRIE", "Name": "Lancaster", "Tag": "NIV-1"}
+"Group 377" : {"OBJECTID": 189, "ObjectType": "ESCALIERS", "Name": "Escaliers B Sup", "Tag": "RDC"}
+"Group 379" : {"OBJECTID": 190, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/8", "Tag": "NIV5"}
+"Group 381" : {"OBJECTID": 191, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc B", "Description": "-3/8 (Asc prioritaire)", "Tag": "NIV5"}
+"Group 383" : {"OBJECTID": 192, "ObjectType": "INDUSTRIE", "Name": "Comptoir Pharmaceutique Méditerrannéen", "Tag": "NIV-1"}
+"Group 385" : {"OBJECTID": 193, "ObjectType": "INDUSTRIE", "Name": "MC Compagny", "Tag": "NIV-1"}
+"Group 387" : {"OBJECTID": 194, "ObjectType": "INDUSTRIE", "Name": "Anny Rey", "Tag": "NIV-1"}
+"Group 389" : {"OBJECTID": 195, "ObjectType": "INDUSTRIE", "Name": "Mecaplast", "Tag": "NIV-1"}
+"Group 391" : {"OBJECTID": 196, "ObjectType": "INDUSTRIE", "Name": "Mecaplast", "Tag": "NIV-1"}
+"Group 393" : {"OBJECTID": 197, "ObjectType": "INDUSTRIE", "Name": "Mecaplast", "Tag": "NIV-1"}
+"Group 395" : {"OBJECTID": 198, "ObjectType": "INDUSTRIE", "Name": "MC Façonnage", "Tag": "NIV-1"}
+"Group 397" : {"OBJECTID": 199, "ObjectType": "INDUSTRIE", "Name": "Timbres", "Tag": "NIV-1"}
+"Group 399" : {"OBJECTID": 200, "ObjectType": "INDUSTRIE", "Name": "SEC", "Tag": "NIV-1"}
+"Group 401" : {"OBJECTID": 201, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/8", "Tag": "RDC"}
+"Group 403" : {"OBJECTID": 202, "ObjectType": "INDUSTRIE", "Name": "Local", "Tag": "NIV-1"}
+"Group 405" : {"OBJECTID": 203, "ObjectType": "INDUSTRIE", "Name": "La Poste", "Tag": "NIV-1"}
+"Group 407" : {"OBJECTID": 204, "ObjectType": "INDUSTRIE", "Name": "MC Façonnage", "Tag": "NIV-1"}
+"Group 409" : {"OBJECTID": 205, "ObjectType": "INDUSTRIE", "Name": "MC Compagny", "Tag": "NIV-1"}
+"Group 411" : {"OBJECTID": 206, "ObjectType": "DIVERS", "Name": "Locaux divers", "Tag": "NIV-1"}
+"Group 413" : {"OBJECTID": 207, "ObjectType": "PPS", "Name": "PPS Secondaire", "Tag": "NIV-1"}
+"Group 415" : {"OBJECTID": 208, "ObjectType": "ESCALIERS", "Name": "Escaliers A2 Inf", "Description": "-3/RDC", "Tag": "RDC"}
+"Group 417" : {"OBJECTID": 209, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/6", "Tag": "RDC"}
+"Group 419" : {"OBJECTID": 210, "ObjectType": "ESCALIERS", "Name": "Escaliers A2 Sup", "Tag": "RDC"}
+"Group 421" : {"OBJECTID": 211, "ObjectType": "ESCALIERS", "Name": "Escaliers A Sup", "Tag": "RDC"}
+"Group 423" : {"OBJECTID": 212, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc A", "Description": "-3/2", "Tag": "RDC"}
+"Group 425" : {"OBJECTID": 213, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc A", "Description": "-3/2", "Tag": "RDC"}
+"Group 427" : {"OBJECTID": 214, "ObjectType": "ESCALIERS", "Name": "Escaliers A Inf", "Description": "-3/RDC", "Tag": "RDC"}
+"Group 429" : {"OBJECTID": 215, "ObjectType": "ESCALIERS", "Name": "Escaliers A1 Sup", "Tag": "RDC"}
+"Group 431" : {"OBJECTID": 216, "ObjectType": "ESCALIERS", "Name": "Escaliers A1 Inf", "Description": "-3/RDC", "Tag": "RDC"}
+"Group 433" : {"OBJECTID": 217, "ObjectType": "ESCALIERS", "Name": "Escaliers C1 Sup", "Tag": "RDC"}
+"Group 435" : {"OBJECTID": 218, "ObjectType": "ESCALIERS", "Name": "Escaliers B1 Inf", "Description": "-3/RDC", "Tag": "RDC"}
+"Group 437" : {"OBJECTID": 219, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc B", "Description": "-3/6", "Tag": "RDC"}
+"Group 439" : {"OBJECTID": 220, "ObjectType": "ESCALIERS", "Name": "Escaliers B1 Sup", "Tag": "RDC"}
+"Group 441" : {"OBJECTID": 221, "ObjectType": "ESCALIERS", "Name": "Escaliers C Sup", "Tag": "RDC"}
+"Group 443" : {"OBJECTID": 222, "ObjectType": "INDUSTRIE", "Name": "Mecaplast", "Tag": "NIV-3"}
+"Group 445" : {"OBJECTID": 223, "ObjectType": "INDUSTRIE", "Name": "Exymol", "Tag": "NIV-3"}
+"Group 447" : {"OBJECTID": 224, "ObjectType": "INDUSTRIE", "Name": "Exymol", "Tag": "NIV-3"}
+"Group 449" : {"OBJECTID": 225, "ObjectType": "INDUSTRIE", "Name": "MES", "Tag": "NIV-3"}
+"Group 451" : {"OBJECTID": 226, "ObjectType": "INDUSTRIE", "Name": "Mecaplast", "Tag": "NIV-3"}
+"Group 453" : {"OBJECTID": 227, "ObjectType": "INDUSTRIE", "Name": "Pharmacie de Fontvieille", "Tag": "NIV-3"}
+"Group 455" : {"OBJECTID": 228, "ObjectType": "SOCLE ", "Description": "SOCLE ", "Tag": "NIV-3"}
+"Group 457" : {"OBJECTID": 229, "ObjectType": "INDUSTRIE", "Name": "Square Electric", "Tag": "NIV-3"}
+"Group 459" : {"OBJECTID": 230, "ObjectType": "INDUSTRIE", "Name": "BAC MINI", "Tag": "NIV-3"}
+"Group 461" : {"OBJECTID": 231, "ObjectType": "INDUSTRIE", "Name": "MC Compagny", "Tag": "NIV-3"}
+"Group 463" : {"OBJECTID": 232, "ObjectType": "INDUSTRIE", "Name": "Entreprise Monégasque de Couverture", "Tag": "NIV-3"}
+"Group 465" : {"OBJECTID": 233, "ObjectType": "INDUSTRIE", "Name": "Local", "Tag": "NIV-3"}
+"Group 467" : {"OBJECTID": 234, "ObjectType": "INDUSTRIE", "Name": "Data Center", "Tag": "NIV-3"}
+"Group 469" : {"OBJECTID": 235, "ObjectType": "INDUSTRIE", "Name": "MES", "Tag": "NIV-3"}
+"Group 471" : {"OBJECTID": 236, "ObjectType": "INDUSTRIE", "Name": "Domaines", "Tag": "NIV-3"}
+"Group 473" : {"OBJECTID": 237, "ObjectType": "INDUSTRIE", "Name": "Mecaplast", "Tag": "NIV-3"}
+"Group 475" : {"OBJECTID": 238, "ObjectType": "INDUSTRIE", "Name": "Vivalla", "Tag": "NIV-3"}
+"Group 477" : {"OBJECTID": 239, "ObjectType": "INDUSTRIE", "Name": "Mysaky", "Tag": "NIV-3"}
+"Group 479" : {"OBJECTID": 240, "ObjectType": "INDUSTRIE", "Name": "Local", "Tag": "NIV-3"}
+"Group 481" : {"OBJECTID": 241, "ObjectType": "INDUSTRIE", "Name": "Albanu", "Tag": "NIV-3"}
+"Group 483" : {"OBJECTID": 242, "ObjectType": "INDUSTRIE", "Name": "Exymol", "Tag": "NIV-3"}
+"Group 485" : {"OBJECTID": 243, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc B", "Description": "-3/6", "Tag": "NIV-3"}
+"Group 487" : {"OBJECTID": 244, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/6", "Tag": "NIV-3"}
+"Group 489" : {"OBJECTID": 245, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/8", "Tag": "NIV-3"}
+"Group 491" : {"OBJECTID": 246, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc A", "Description": "-3/2", "Tag": "NIV-3"}
+"Group 493" : {"OBJECTID": 247, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc A", "Description": "-3/2", "Tag": "NIV-3"}
+"Group 495" : {"OBJECTID": 248, "ObjectType": "SOCLE ", "Description": "SOCLE ", "Tag": "NIV2"}
+"Group 497" : {"OBJECTID": 249, "ObjectType": "SOCLE ", "Description": "SOCLE ", "Tag": "NIV3"}
+"Group 499" : {"OBJECTID": 250, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A", "Tag": "NIV1"}
+"Group 501" : {"OBJECTID": 251, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A2", "Tag": "NIV1"}
+"Group 503" : {"OBJECTID": 252, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc A", "Tag": "NIV1"}
+"Group 505" : {"OBJECTID": 253, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc C", "Tag": "RDC"}
+"Group 507" : {"OBJECTID": 254, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc B", "Tag": "RDC"}
+"Group 509" : {"OBJECTID": 255, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau partielle bloc A", "Tag": "RDC"}
+"Group 511" : {"OBJECTID": 256, "ObjectType": "HYDRAULIQUE", "Name": "Réalimentation Colonne Humide bloc A", "Tag": "RDC"}
+"Group 513" : {"OBJECTID": 257, "ObjectType": "HYDRAULIQUE", "Name": "Réalimentation Colonne Humide bloc A", "Tag": "RDC"}
+"Group 515" : {"OBJECTID": 258, "ObjectType": "HYDRAULIQUE", "Name": "Réalimentation Colonne Humide bloc B", "Tag": "RDC"}
+"Group 517" : {"OBJECTID": 259, "ObjectType": "HYDRAULIQUE", "Name": "Réalimentation Colonne Humide bloc C", "Tag": "RDC"}
+"Group 519" : {"OBJECTID": 260, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C1", "Tag": "RDC"}
+"Group 521" : {"OBJECTID": 261, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C", "Tag": "RDC"}
+"Group 523" : {"OBJECTID": 262, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A2", "Tag": "RDC"}
+"Group 525" : {"OBJECTID": 263, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A", "Tag": "RDC"}
+"Group 527" : {"OBJECTID": 264, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "RDC"}
+"Group 529" : {"OBJECTID": 265, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "RDC"}
+"Group 531" : {"OBJECTID": 266, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B", "Tag": "RDC"}
+"Group 533" : {"OBJECTID": 267, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C", "Tag": "NIV-2"}
+"Group 535" : {"OBJECTID": 268, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A1", "Tag": "RDC"}
+"Group 537" : {"OBJECTID": 269, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A2", "Tag": "RDC"}
+"Group 539" : {"OBJECTID": 270, "ObjectType": "HYDRAULIQUE", "Name": "Coupure d_eau générale", "Tag": "NIV-1"}
+"Group 541" : {"OBJECTID": 271, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C", "Tag": "NIV-1"}
+"Group 543" : {"OBJECTID": 272, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A1", "Tag": "NIV-1"}
+"Group 545" : {"OBJECTID": 273, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV-1"}
+"Group 547" : {"OBJECTID": 274, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV-1"}
+"Group 549" : {"OBJECTID": 275, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A2", "Tag": "NIV-1"}
+"Group 551" : {"OBJECTID": 276, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV-1"}
+"Group 553" : {"OBJECTID": 277, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV-2"}
+"Group 555" : {"OBJECTID": 278, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV-2"}
+"Group 557" : {"OBJECTID": 279, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV-2"}
+"Group 559" : {"OBJECTID": 280, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A1", "Tag": "NIV-2"}
+"Group 561" : {"OBJECTID": 281, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A2", "Tag": "NIV-2"}
+"Group 563" : {"OBJECTID": 282, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A2", "Tag": "NIV-3"}
+"Group 565" : {"OBJECTID": 283, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide C", "Tag": "NIV-3"}
+"Group 567" : {"OBJECTID": 284, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B1", "Tag": "NIV-3"}
+"Group 569" : {"OBJECTID": 285, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide B", "Tag": "NIV-3"}
+"Group 571" : {"OBJECTID": 286, "ObjectType": "HYDRAULIQUE", "Name": "Refoulement Colonne Humide A1", "Tag": "NIV-3"}
+"Group 573" : {"OBJECTID": 287, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc A", "Description": "-3/2", "Tag": "NIV-2"}
+"Group 575" : {"OBJECTID": 288, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc A", "Description": "-3/2", "Tag": "NIV-2"}
+"Group 577" : {"OBJECTID": 289, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/6", "Tag": "NIV-2"}
+"Group 579" : {"OBJECTID": 290, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV-2"}
+"Group 581" : {"OBJECTID": 291, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV-2"}
+"Group 583" : {"OBJECTID": 292, "ObjectType": "DIVERS", "Name": "Locaux divers", "Tag": "NIV9"}
+"Group 585" : {"OBJECTID": 293, "ObjectType": "RISQUES", "Name": "GMTG", "Tag": "NIV9"}
+"Group 587" : {"OBJECTID": 294, "ObjectType": "RISQUES", "Name": "GMTG", "Tag": "NIV9"}
+"Group 589" : {"OBJECTID": 295, "ObjectType": "RISQUES", "Name": "GMTG", "Tag": "NIV9"}
+"Group 591" : {"OBJECTID": 296, "ObjectType": "CIRCULATIONS", "Name": "Circulations", "Tag": "NIV9"}
+"Group 593" : {"OBJECTID": 297, "ObjectType": "ESCALIERS", "Name": "Escaliers B Sup", "Tag": "NIV9"}
+"Group 595" : {"OBJECTID": 298, "ObjectType": "ESCALIERS", "Name": "Escaliers C Sup", "Tag": "NIV9"}
+"Group 597" : {"OBJECTID": 299, "ObjectType": "ESCALIERS", "Name": "Escaliers C1 Sup", "Tag": "NIV9"}
+"Group 599" : {"OBJECTID": 300, "ObjectType": "CIRCULATIONS", "Name": "Circulations", "Tag": "NIV7"}
+"Group 601" : {"OBJECTID": 301, "ObjectType": "INDUSTRIE", "Name": "Monaco Telecom", "Tag": "NIV8"}
+"Group 603" : {"OBJECTID": 302, "ObjectType": "DIVERS", "Name": "Locaux divers", "Tag": "NIV8"}
+"Group 605" : {"OBJECTID": 303, "ObjectType": "CIRCULATIONS", "Name": "Circulations", "Tag": "NIV8"}
+"Group 607" : {"OBJECTID": 304, "ObjectType": "ESCALIERS", "Name": "Escaliers A1 Sup", "Tag": "NIV8"}
+"Group 609" : {"OBJECTID": 305, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/8", "Tag": "NIV8"}
+"Group 611" : {"OBJECTID": 306, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc B", "Description": "-3/8 (Asc prioritaire)", "Tag": "NIV8"}
+"Group 613" : {"OBJECTID": 307, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV8"}
+"Group 615" : {"OBJECTID": 308, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV8"}
+"Group 617" : {"OBJECTID": 309, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc C", "Description": "-3/8", "Tag": "NIV8"}
+"Group 619" : {"OBJECTID": 310, "ObjectType": "ESCALIERS", "Name": "Escaliers B1 Sup", "Tag": "NIV8"}
+"Group 621" : {"OBJECTID": 311, "ObjectType": "ESCALIERS", "Name": "Escaliers B Sup", "Tag": "NIV8"}
+"Group 623" : {"OBJECTID": 312, "ObjectType": "ESCALIERS", "Name": "Escaliers C Sup", "Tag": "NIV8"}
+"Group 625" : {"OBJECTID": 313, "ObjectType": "ESCALIERS", "Name": "Escaliers C1 Sup", "Tag": "NIV8"}
+"Group 627" : {"OBJECTID": 314, "ObjectType": "INDUSTRIE", "Name": "Phytoquant", "Tag": "NIV7"}
+"Group 629" : {"OBJECTID": 315, "ObjectType": "INDUSTRIE", "Name": "Local", "Tag": "NIV7"}
+"Group 631" : {"OBJECTID": 316, "ObjectType": "INDUSTRIE", "Name": "Monatech", "Tag": "NIV7"}
+"Group 633" : {"OBJECTID": 317, "ObjectType": "DIVERS", "Name": "Locaux divers", "Tag": "NIV7"}
+"Group 635" : {"OBJECTID": 318, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV-3"}
+"Group 637" : {"OBJECTID": 319, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc C", "Description": "-3/8", "Tag": "NIV-3"}
+"Group 639" : {"OBJECTID": 320, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc B", "Description": "-3/8 (Asc prioritaire)", "Tag": "NIV-3"}
+"Group 641" : {"OBJECTID": 321, "ObjectType": "INDUSTRIE", "Name": "Comptoir Pharmaceutique Méditerrannéen", "Tag": "NIV-2"}
+"Group 643" : {"OBJECTID": 322, "ObjectType": "INDUSTRIE", "Name": "Bricocenter", "Tag": "NIV-2"}
+"Group 645" : {"OBJECTID": 323, "ObjectType": "INDUSTRIE", "Name": "Bricocenter", "Tag": "NIV-2"}
+"Group 647" : {"OBJECTID": 324, "ObjectType": "INDUSTRIE", "Name": "Domaines", "Tag": "NIV-2"}
+"Group 649" : {"OBJECTID": 325, "ObjectType": "INDUSTRIE", "Name": "Les ateliers du bois", "Tag": "NIV-2"}
+"Group 651" : {"OBJECTID": 326, "ObjectType": "CIRCULATIONS", "Name": "Circulations", "Tag": "NIV-1"}
+"Group 653" : {"OBJECTID": 327, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc A", "Description": "-3/2", "Tag": "NIV-1"}
+"Group 655" : {"OBJECTID": 328, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc A", "Description": "-3/2", "Tag": "NIV-1"}
+"Group 657" : {"OBJECTID": 329, "ObjectType": "ESCALIERS", "Name": "Escaliers A Inf", "Description": "-3/RDC", "Tag": "NIV-1"}
+"Group 659" : {"OBJECTID": 330, "ObjectType": "ESCALIERS", "Name": "Escaliers A1 Inf", "Description": "-3/RDC", "Tag": "NIV-1"}
+"Group 661" : {"OBJECTID": 331, "ObjectType": "ESCALIERS", "Name": "Escaliers A2 Inf", "Description": "-3/RDC", "Tag": "NIV-1"}
+"Group 663" : {"OBJECTID": 332, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc B", "Description": "-3/6", "Tag": "NIV-1"}
+"Group 665" : {"OBJECTID": 333, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/6", "Tag": "NIV-1"}
+"Group 667" : {"OBJECTID": 334, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc B", "Description": "-3/8 (Asc prioritaire)", "Tag": "NIV-1"}
+"Group 669" : {"OBJECTID": 335, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/8", "Tag": "NIV-1"}
+"Group 671" : {"OBJECTID": 336, "ObjectType": "ESCALIERS", "Name": "Escaliers B Inf", "Description": "-3/RDC", "Tag": "NIV-1"}
+"Group 673" : {"OBJECTID": 337, "ObjectType": "ESCALIERS", "Name": "Escaliers C Inf", "Description": "-3/RDC", "Tag": "NIV-1"}
+"Group 675" : {"OBJECTID": 338, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV-1"}
+"Group 677" : {"OBJECTID": 339, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV-1"}
+"Group 679" : {"OBJECTID": 340, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc C", "Description": "-3/8", "Tag": "NIV-1"}
+"Group 681" : {"OBJECTID": 341, "ObjectType": "ESCALIERS", "Name": "Escaliers B1 Inf", "Description": "-3/RDC", "Tag": "NIV-1"}
+"Group 683" : {"OBJECTID": 342, "ObjectType": "DIVERS", "Name": "Locaux divers", "Tag": "NIV-1"}
+"Group 685" : {"OBJECTID": 343, "ObjectType": "RISQUES", "Name": "Transfo SMEG Bloc A", "Tag": "NIV-1"}
+"Group 687" : {"OBJECTID": 344, "ObjectType": "RISQUES", "Name": "Transfo SMEG Bloc C", "Tag": "NIV-1"}
+"Group 689" : {"OBJECTID": 345, "ObjectType": "RISQUES", "Name": "Stockage de fioul", "Description": "Cuve vide", "Tag": "NIV-1"}
+"Group 691" : {"OBJECTID": 346, "ObjectType": "RISQUES", "Name": "TGBT Bloc B parties communes", "Tag": "NIV-1"}
+"Group 693" : {"OBJECTID": 347, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc B", "Description": "-3/8 (Asc prioritaire)", "Tag": "RDC"}
+"Group 695" : {"OBJECTID": 348, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "RDC"}
+"Group 697" : {"OBJECTID": 349, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "RDC"}
+"Group 699" : {"OBJECTID": 350, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc C", "Description": "-3/8", "Tag": "RDC"}
+"Group 701" : {"OBJECTID": 351, "ObjectType": "INDUSTRIE", "Name": "Comptoir Pharmaceutique Méditerrannéen", "Tag": "RDC"}
+"Group 703" : {"OBJECTID": 352, "ObjectType": "INDUSTRIE", "Name": "MC Compagny", "Tag": "RDC"}
+"Group 705" : {"OBJECTID": 353, "ObjectType": "INDUSTRIE", "Name": "MC Compagny", "Tag": "RDC"}
+"Group 707" : {"OBJECTID": 354, "ObjectType": "INDUSTRIE", "Name": "MC Compagny", "Tag": "RDC"}
+"Group 709" : {"OBJECTID": 355, "ObjectType": "INDUSTRIE", "Name": "MC Façonnage", "Tag": "RDC"}
+"Group 711" : {"OBJECTID": 356, "ObjectType": "INDUSTRIE", "Name": "MC Compagny", "Tag": "RDC"}
+"Group 713" : {"OBJECTID": 357, "ObjectType": "INDUSTRIE", "Name": "Brico Center", "Tag": "RDC"}
+"Group 715" : {"OBJECTID": 358, "ObjectType": "INDUSTRIE", "Name": "BAC MINI", "Tag": "RDC"}
+"Group 717" : {"OBJECTID": 359, "ObjectType": "INDUSTRIE", "Name": "Ateliers du bois", "Tag": "RDC"}
+"Group 719" : {"OBJECTID": 360, "ObjectType": "DIVERS", "Name": "Locaux divers", "Tag": "RDC"}
+"Group 721" : {"OBJECTID": 361, "ObjectType": "CIRCULATIONS RDC", "Name": "Circulations RDC", "Tag": "RDC"}
+"Group 723" : {"OBJECTID": 362, "ObjectType": "PPS", "Name": "PPS Principal", "Tag": "RDC"}
+"Group 725" : {"OBJECTID": 363, "ObjectType": "INDUSTRIE", "Name": "Brico Center", "Tag": "RDC"}
+"Group 727" : {"OBJECTID": 364, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc A", "Description": "-3/2", "Tag": "NIV1"}
+"Group 729" : {"OBJECTID": 365, "ObjectType": "ESCALIERS", "Name": "Escaliers A2 Sup", "Tag": "NIV1"}
+"Group 731" : {"OBJECTID": 366, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc A", "Description": "-3/2", "Tag": "NIV1"}
+"Group 733" : {"OBJECTID": 367, "ObjectType": "ESCALIERS", "Name": "Escaliers A Sup", "Tag": "NIV1"}
+"Group 735" : {"OBJECTID": 368, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc B", "Description": "-3/6", "Tag": "NIV1"}
+"Group 737" : {"OBJECTID": 369, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/6", "Tag": "NIV1"}
+"Group 739" : {"OBJECTID": 370, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/8", "Tag": "NIV1"}
+"Group 741" : {"OBJECTID": 371, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc B", "Description": "-3/8 (Asc prioritaire)", "Tag": "NIV1"}
+"Group 743" : {"OBJECTID": 372, "ObjectType": "ESCALIERS", "Name": "Escaliers B Sup", "Tag": "NIV1"}
+"Group 745" : {"OBJECTID": 373, "ObjectType": "ESCALIERS", "Name": "Escaliers B1 Sup", "Tag": "NIV1"}
+"Group 747" : {"OBJECTID": 374, "ObjectType": "ESCALIERS", "Name": "Escaliers C Sup", "Tag": "NIV1"}
+"Group 749" : {"OBJECTID": 375, "ObjectType": "ESCALIERS", "Name": "Escaliers A1 Sup", "Tag": "NIV1"}
+"Group 751" : {"OBJECTID": 376, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV1"}
+"Group 753" : {"OBJECTID": 377, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV1"}
+"Group 755" : {"OBJECTID": 378, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc C", "Description": "-3/8", "Tag": "NIV1"}
+"Group 757" : {"OBJECTID": 379, "ObjectType": "ESCALIERS", "Name": "Escaliers C1 Sup", "Tag": "NIV1"}
+"Group 759" : {"OBJECTID": 380, "ObjectType": "CIRCULATIONS", "Name": "Circulations", "Tag": "NIV1"}
+"Group 761" : {"OBJECTID": 381, "ObjectType": "DIVERS", "Name": "Locaux divers", "Tag": "NIV1"}
+"Group 763" : {"OBJECTID": 382, "ObjectType": "INDUSTRIE", "Name": "Comptoir Pharmaceutique Méditerrannéen", "Tag": "NIV1"}
+"Group 765" : {"OBJECTID": 383, "ObjectType": "INDUSTRIE", "Name": "Brico Center", "Tag": "NIV1"}
+"Group 767" : {"OBJECTID": 384, "ObjectType": "INDUSTRIE", "Name": "Euromax", "Tag": "NIV1"}
+"Group 769" : {"OBJECTID": 385, "ObjectType": "INDUSTRIE", "Name": "MC Façonnage", "Tag": "NIV1"}
+"Group 771" : {"OBJECTID": 386, "ObjectType": "INDUSTRIE", "Name": "Sam Wally", "Tag": "NIV1"}
+"Group 773" : {"OBJECTID": 387, "ObjectType": "INDUSTRIE", "Tag": "NIV1"}
+"Group 775" : {"OBJECTID": 388, "ObjectType": "INDUSTRIE", "Name": "Novatex", "Tag": "NIV1"}
+"Group 777" : {"OBJECTID": 389, "ObjectType": "INDUSTRIE", "Name": "SEC", "Tag": "NIV1"}
+"Group 779" : {"OBJECTID": 390, "ObjectType": "ESCALIERS", "Name": "Escaliers A2 Sup", "Tag": "NIV2"}
+"Group 781" : {"OBJECTID": 391, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc A", "Description": "-3/2", "Tag": "NIV2"}
+"Group 783" : {"OBJECTID": 392, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc A", "Description": "-3/2", "Tag": "NIV2"}
+"Group 785" : {"OBJECTID": 393, "ObjectType": "ESCALIERS", "Name": "Escaliers A Sup", "Tag": "NIV2"}
+"Group 787" : {"OBJECTID": 394, "ObjectType": "ESCALIERS", "Name": "Escaliers A1 Sup", "Tag": "NIV2"}
+"Group 789" : {"OBJECTID": 395, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc B", "Description": "-3/8 (Asc prioritaire)", "Tag": "NIV2"}
+"Group 791" : {"OBJECTID": 396, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs bloc B", "Description": "-3/6", "Tag": "NIV2"}
+"Group 793" : {"OBJECTID": 397, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/6", "Tag": "NIV2"}
+"Group 795" : {"OBJECTID": 398, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc B", "Description": "-3/8", "Tag": "NIV2"}
+"Group 797" : {"OBJECTID": 399, "ObjectType": "ESCALIERS", "Name": "Escaliers B Sup", "Tag": "NIV2"}
+"Group 799" : {"OBJECTID": 400, "ObjectType": "ESCALIERS", "Name": "Escaliers B1 Sup", "Tag": "NIV2"}
+"Group 801" : {"OBJECTID": 401, "ObjectType": "ESCALIERS", "Name": "Escaliers C Sup", "Tag": "NIV2"}
+"Group 803" : {"OBJECTID": 402, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV2"}
+"Group 805" : {"OBJECTID": 403, "ObjectType": "ASCENSEURS", "Name": "Monte-charges bloc C", "Description": "-3/8", "Tag": "NIV2"}
+"Group 807" : {"OBJECTID": 404, "ObjectType": "ASCENSEURS", "Name": "Ascenseurs prioritaires bloc C", "Description": "-3/8", "Tag": "NIV2"}
+"Group 809" : {"OBJECTID": 405, "ObjectType": "ESCALIERS", "Name": "Escaliers C1 Sup", "Tag": "NIV2"}
+"Group 811" : {"OBJECTID": 406, "ObjectType": "CIRCULATIONS", "Name": "Circulations", "Tag": "NIV2"}
+"Group 813" : {"OBJECTID": 407, "ObjectType": "DIVERS", "Name": "Locaux divers", "Tag": "NIV2"}
+"Group 815" : {"OBJECTID": 408, "ObjectType": "INDUSTRIE", "Name": "Comptoir Pharmaceutique Méditerrannéen", "Tag": "NIV2"}
+"Group 817" : {"OBJECTID": 409, "ObjectType": "INDUSTRIE", "Name": "Lancaster", "Tag": "NIV2"}
+"Group 819" : {"OBJECTID": 410, "ObjectType": "ESCALIERS", "Name": "Escaliers A1 Sup", "Tag": "NIV3"}
+"Group 821" : {"OBJECTID": 411, "ObjectType": "ESCALIERS", "Name": "Escaliers A Sup", "Tag": "NIV3"}
+"Group 823" : {"OBJECTID": 412, "ObjectType": "ESCALIERS", "Name": "Escaliers B Sup", "Tag": "NIV3"}
+}
