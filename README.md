@@ -34,9 +34,9 @@ Notre méthode est expliquée dans la documentation Développeur.
 
 ## Auteurs
 
-* **Bres Lucas** - Étudiant à l'ENSG - Chef de Projet
-* **Hue Valentin** - Étudiant à l'ENSG
-* **Labourg Priscillia** - Étudiante à l'ENSG
-* **Peng Yanzhuo** - Étudiante à l'ENSG
+* **Bres Lucas** - Étudiant à l'ENSG - Chef de Projet - lucas.bres@ensg.eu - lucas.bres96@gmail.com
+* **Hue Valentin** - Étudiant à l'ENSG - valentin.hue@ensg.eu
+* **Labourg Priscillia** - Étudiante à l'ENSG - priscillia.labourg@ensg.eu
+* **Peng Yanzhuo** - Étudiante à l'ENSG - yanzhuo.peng@ensg.eu
 
 
