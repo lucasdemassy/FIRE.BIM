@@ -23,7 +23,7 @@ Notre méthode est expliquée dans la documentation Développeur.
 
 ### Installation
 <ul>
-<li> Étape 0: Lancer le logiciel Unity Hub que téléchargeable à cette adresse : https://store.unity.com/fr, et choisir la version 2018.3. </li>
+<li> Étape 0: Lancer le logiciel Unity Hub téléchargeable à cette adresse : https://store.unity.com/fr, et choisir la version 2018.3. </li>
 <li> Étape 1: Pour ouvir le projet Unity, cliquer sur le bouton "Open" dans Unity Hub puis cibler le dossier "FIRE_BIM_Unity". </li>
 <li> Étape 2: Allez dans l'onglet File > Build Settings. Choisir la version Android, puis cliquer sur Build pour générer le fichier APK</li> 
 <li> Étape 3: Créer un dossier à la racine de la mémoire interne de l'appareil Android qui s'appellera "unityTest" ( !!! sensible à la casse). Dans ce dossier, glisser le fichier attributaire "maquette.txt" présent dans le dossier "Données" du dépôt GitHub.</li> 
